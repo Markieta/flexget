@@ -1,0 +1,50 @@
+tasks:
+  Durarara:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Durarara%21%21+X2+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  FairyTail:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Fairy+Tail+S2+-+%5B720%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  Gangsta:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Gangsta+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  Naruto:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Naruto+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  OreMonogatari:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Ore+Monogatari%21%21+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  ShokugekiNoSoma:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Shokugeki+no+Soma+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
+  Working:
+    rss: 'http://www.nyaa.se/?page=rss&cats=1_37&term=%5BHorribleSubs%5D+Working%21%21%21+-+%5B720p%5D.mkv&filter=2'
+    accept_all: yes
+    transmission:
+      host: localhost
+      port: 9091
+      path: /media/sdc1/tv/
